@@ -90,3 +90,5 @@ core.*
 __pycache__
 
 gradle.lockfile
+# Local build outputs
+/output/
